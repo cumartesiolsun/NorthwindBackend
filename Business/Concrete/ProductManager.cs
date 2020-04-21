@@ -21,7 +21,7 @@ namespace Business.Concrete
     {
         private IProductDal _productDal;
         //private ICategoryDal _categoryDal; //False
-        private ICategoryService _categoryService; // True
+        private ICategoryService _categoryService; // True //Kuralları bir kere yazıyor olmak için
 
 
         public ProductManager(IProductDal productDal)
