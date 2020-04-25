@@ -150,3 +150,5 @@ C:\Projects\NorthwindBackend\WebApi\obj\Debug\netcoreapp3.1\staticwebassets\WebA
 C:\Projects\NorthwindBackend\WebApi\obj\Debug\netcoreapp3.1\WebApi.dll
 C:\Projects\NorthwindBackend\WebApi\obj\Debug\netcoreapp3.1\WebApi.pdb
 C:\Projects\NorthwindBackend\WebApi\obj\Debug\netcoreapp3.1\WebApi.genruntimeconfig.cache
+C:\Projects\NorthwindBackend\WebApi\bin\Debug\netcoreapp3.1\Npgsql.dll
+C:\Projects\NorthwindBackend\WebApi\bin\Debug\netcoreapp3.1\Npgsql.EntityFrameworkCore.PostgreSQL.dll

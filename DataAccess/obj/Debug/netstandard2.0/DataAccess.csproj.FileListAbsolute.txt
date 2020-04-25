@@ -6,9 +6,9 @@ C:\Projects\NorthwindBackend\DataAccess\bin\Debug\netstandard2.0\Entities.dll
 C:\Projects\NorthwindBackend\DataAccess\bin\Debug\netstandard2.0\Entities.pdb
 C:\Projects\NorthwindBackend\DataAccess\bin\Debug\netstandard2.0\Core.pdb
 C:\Projects\NorthwindBackend\DataAccess\obj\Debug\netstandard2.0\DataAccess.csprojAssemblyReference.cache
-C:\Projects\NorthwindBackend\DataAccess\obj\Debug\netstandard2.0\DataAccess.csproj.CoreCompileInputs.cache
 C:\Projects\NorthwindBackend\DataAccess\obj\Debug\netstandard2.0\DataAccess.AssemblyInfoInputs.cache
 C:\Projects\NorthwindBackend\DataAccess\obj\Debug\netstandard2.0\DataAccess.AssemblyInfo.cs
 C:\Projects\NorthwindBackend\DataAccess\obj\Debug\netstandard2.0\DataAccess.csproj.CopyComplete
 C:\Projects\NorthwindBackend\DataAccess\obj\Debug\netstandard2.0\DataAccess.dll
 C:\Projects\NorthwindBackend\DataAccess\obj\Debug\netstandard2.0\DataAccess.pdb
+C:\Projects\NorthwindBackend\DataAccess\obj\Debug\netstandard2.0\DataAccess.csproj.CoreCompileInputs.cache
