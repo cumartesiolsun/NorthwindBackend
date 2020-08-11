@@ -1,0 +1,12 @@
+C:\Projects\NorthwindBackend\Entities\bin\Debug\netstandard2.1\Entities.deps.json
+C:\Projects\NorthwindBackend\Entities\bin\Debug\netstandard2.1\Entities.dll
+C:\Projects\NorthwindBackend\Entities\bin\Debug\netstandard2.1\Entities.pdb
+C:\Projects\NorthwindBackend\Entities\bin\Debug\netstandard2.1\Core.dll
+C:\Projects\NorthwindBackend\Entities\bin\Debug\netstandard2.1\Core.pdb
+C:\Projects\NorthwindBackend\Entities\obj\Debug\netstandard2.1\Entities.csprojAssemblyReference.cache
+C:\Projects\NorthwindBackend\Entities\obj\Debug\netstandard2.1\Entities.AssemblyInfoInputs.cache
+C:\Projects\NorthwindBackend\Entities\obj\Debug\netstandard2.1\Entities.AssemblyInfo.cs
+C:\Projects\NorthwindBackend\Entities\obj\Debug\netstandard2.1\Entities.csproj.CoreCompileInputs.cache
+C:\Projects\NorthwindBackend\Entities\obj\Debug\netstandard2.1\Entities.csproj.CopyComplete
+C:\Projects\NorthwindBackend\Entities\obj\Debug\netstandard2.1\Entities.dll
+C:\Projects\NorthwindBackend\Entities\obj\Debug\netstandard2.1\Entities.pdb

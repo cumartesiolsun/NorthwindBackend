@@ -3080,7 +3080,7 @@
       },
       "Business/1.0.0": {
         "type": "project",
-        "framework": ".NETStandard,Version=v2.0",
+        "framework": ".NETStandard,Version=v2.1",
         "dependencies": {
           "Autofac": "5.1.2",
           "Autofac.Extras.DynamicProxy": "5.0.0",
@@ -3098,7 +3098,7 @@
       },
       "Core/1.0.0": {
         "type": "project",
-        "framework": ".NETStandard,Version=v2.0",
+        "framework": ".NETStandard,Version=v2.1",
         "dependencies": {
           "Autofac.Extensions.DependencyInjection": "6.0.0",
           "Autofac.Extras.DynamicProxy": "5.0.0",
@@ -3121,7 +3121,7 @@
       },
       "DataAccess/1.0.0": {
         "type": "project",
-        "framework": ".NETStandard,Version=v2.0",
+        "framework": ".NETStandard,Version=v2.1",
         "dependencies": {
           "Entities": "1.0.0",
           "Microsoft.EntityFrameworkCore": "3.1.3",
@@ -3137,7 +3137,7 @@
       },
       "Entities/1.0.0": {
         "type": "project",
-        "framework": ".NETStandard,Version=v2.0",
+        "framework": ".NETStandard,Version=v2.1",
         "dependencies": {
           "Core": "1.0.0"
         },
@@ -9849,7 +9849,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
       }
     }
   }
